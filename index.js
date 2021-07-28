@@ -10,6 +10,7 @@ view:'20 views'
 
 }
 
+
 // console.log(obj)
 
 // vSpecial Variable
